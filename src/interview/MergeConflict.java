@@ -6,7 +6,8 @@ public class MergeConflict {
 	System.out.println("hii");
 	System.out.println("selvam");
 	System.out.println("panneer");
-
+System.out.println("hello");
+System.out.println("rider");
 	}
 
 }
